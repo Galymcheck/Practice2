@@ -9,4 +9,4 @@ Source: https://www.w3schools.com/python/
 
 Author
 
-Galam Tolepkazy
+Galamat Tolepkazy
